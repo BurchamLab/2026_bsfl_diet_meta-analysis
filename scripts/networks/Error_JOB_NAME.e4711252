@@ -1,3 +1,0 @@
-sbatch: error: Aproject account must be specified. Please double check and resubmit
-sbatch: error: Batch job submission failed: Invalid account or account/partition combination specified
-/var/spool/slurm/spool/job4711252/slurm_script: line 19: --Variable: command not found
